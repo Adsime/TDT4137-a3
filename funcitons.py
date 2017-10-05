@@ -1,5 +1,4 @@
 import shapes
-import numpy as np
 import matplotlib.pyplot as plt
 
 
@@ -37,11 +36,3 @@ def plot(defArr, items, position):
     plt.axis([-10, 10, 0, 1])
     plt.xticks(defArr)
     plt.show()
-
-
-
-
-
-
-
-
